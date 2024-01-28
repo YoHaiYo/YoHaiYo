@@ -11,4 +11,4 @@ Transitioning from civil structural design to frontend development, I bring a un
 I thrive on challenges and learning from failures, constantly evolving and gaining valuable experiences.
 
 **If you want to know more?**
-[My Introduction Page](https://sshdev.notion.site/a6ae4b67120c48aeb8e7aac1e4a88583)
+🔗 [My Introduction Page](https://sshdev.notion.site/a6ae4b67120c48aeb8e7aac1e4a88583)
