@@ -1,14 +1,20 @@
-👋 Hi, I'm YoHaYo.
+# 👋 Hi, I'm YoHaYo
 
-🚀 From Civil Structural Designer to Frontend Developer
-Transitioning from civil structural design to frontend development, I bring a unique blend of technical and creative skills.
+### 🌉 From Designing Bridges to Designing Code
 
-💡 Strengths:
-- Idea Generation and Implementation: Passionate about developing and realizing new service concepts.
-- Organized and Efficient: Skilled at meticulous data organization and effective utilization.
+Hello! I'm YoHaYo, a passionate junior web developer based in South Korea. My journey began as a bridge structural designer, where I learned the beauty of creating something strong and enduring. Now, I've transitioned into the world of web development, where I craft digital experiences that are as impactful as the bridges I once designed.
 
-🌱 Embracing Growth:
-I thrive on challenges and learning from failures, constantly evolving and gaining valuable experiences.
+### 🌐 My Passion: Indie Hacking
+
+I'm not just here to code; I'm here to build. As an aspiring **Indie Hacker**, my goal is to create, distribute, and monetize my own projects, turning ideas into real-life services that bring value to people. Every line of code I write is a step toward realizing this dream.
+
+### ✍️ Sharing the Journey
+
+Through my [blog](https://medium.com/@yohasim), I share my experiences—challenges, successes, and lessons learned. From idea inception to product launch, I hope to inspire others and grow together.
+
+### 🚀 Tech Stack
+- Frontend: React, Next, Vue, ReactNative, Flutter
+- Backend: Django
 
 ### If you want to know more?
 ### 🔗 [My Blog : Medium](https://medium.com/@yohasim)
