@@ -10,12 +10,12 @@ I'm not just here to code; I'm here to build. As an aspiring **Indie Hacker**, m
 
 ### ✍️ Sharing the Journey
 
-Through my [blog](https://medium.com/@yohasim), I share my experiences—challenges, successes, and lessons learned. From idea inception to product launch, I hope to inspire others and grow together.
+Through my [blog](https://yohasim.medium.com/), I share my experiences—challenges, successes, and lessons learned. From idea inception to product launch, I hope to inspire others and grow together.
 
 ### 🚀 Tech Stack
 - Frontend: React, Next, Vue, ReactNative, Flutter
 - Backend: Django
 
 ### If you want to know more?
-### 🔗 [My Blog : Medium](https://medium.com/@yohasim)
+### 🔗 [My Blog : Medium](https://yohasim.medium.com/)
 ### 🔗 [My Introduction Page](https://sshdev.notion.site/a6ae4b67120c48aeb8e7aac1e4a88583)
