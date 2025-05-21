@@ -2,7 +2,7 @@
 
 ### 🌉 From Designing Bridges to Designing Code
 
-Hello! I'm YoHaSim, a passionate web developer based in South Korea. My journey began as a bridge structural designer, where I learned the beauty of creating something strong and enduring. Now, I've transitioned into the world of web development, where I craft digital experiences that are as impactful as the bridges I once designed.
+Hello! I'm YoHaiYo, a passionate web developer based in South Korea. My journey began as a bridge structural designer, where I learned the beauty of creating something strong and enduring. Now, I've transitioned into the world of web development, where I craft digital experiences that are as impactful as the bridges I once designed.
 
 ### 🌐 My Passion: Indie Hacking
 
